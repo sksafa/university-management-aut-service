@@ -1,0 +1,6 @@
+
+dist
+node_modules
+.env
+
+//"prettier:check":"npm prettier --write .",
